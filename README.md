@@ -27,8 +27,12 @@
 
 <br />
 <br />
+<details>
+  <summary>:zap: Most used languages</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fschaal&hide=css,html)](https://github.com/fschaal/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fschaal&hide=css,html)](https://github.com/fschaal/github-readme-stats)
+</details>
 
 <br />
 <br />
