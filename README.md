@@ -12,10 +12,8 @@
 - [10: Data & Analytics](https://anchor.fm/dev-talks/episodes/10-Data--Analytics-ei61ig)
 <!-- DevTalks:END -->
 
-
-
-
-
+### Spotify Playing 🎧
+[<img src="https://novatorem-five.vercel.app/api/spotify-playing" alt="fschaal Spotify Playing" width="350" />](https://open.spotify.com/user/112395701)
 
 ### Connect with me:
 
