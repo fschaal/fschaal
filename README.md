@@ -34,6 +34,8 @@
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fschaal&&count_private=true&theme=cobalt)](https://github.com/fschaal/github-readme-stats)
+  
 </details>
 
