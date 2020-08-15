@@ -5,6 +5,11 @@
 
 ### Dev Talks
 <!-- DevTalks:START -->
+- [14: Aan de slag met IOT](https://anchor.fm/dev-talks/episodes/14-Aan-de-slag-met-IOT-ei61ij)
+- [13: Automated Testing](https://anchor.fm/dev-talks/episodes/13-Automated-Testing-ei61i4)
+- [12: The future of cloud development](https://anchor.fm/dev-talks/episodes/12-The-future-of-cloud-development-ei61ic)
+- [11: Microsoft Build 2020 Recap](https://anchor.fm/dev-talks/episodes/11-Microsoft-Build-2020-Recap-ei61i5)
+- [10: Data & Analytics](https://anchor.fm/dev-talks/episodes/10-Data--Analytics-ei61ig)
 <!-- DevTalks:END -->
 
 
