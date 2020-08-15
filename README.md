@@ -4,7 +4,8 @@
 ## I'm a Fullstack developer and podcast host currently focusing on the Azure Cloud!
 
 ### Dev Talks
-<iframe src="https://open.spotify.com/embed-podcast/show/6DwXrsGQTnWZfd3WHUcw3J" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<!-- DevTalks:START -->
+<!-- DevTalks:END -->
 
 
 
