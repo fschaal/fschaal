@@ -3,7 +3,7 @@
 
 ## I'm a Fullstack developer and podcast host currently focusing on the Azure Cloud!
 
-### Dev Talks
+### Dev Talks Podcast
 <!-- DevTalks:START -->
 - [14: Aan de slag met IOT](https://anchor.fm/dev-talks/episodes/14-Aan-de-slag-met-IOT-ei61ij)
 - [13: Automated Testing](https://anchor.fm/dev-talks/episodes/13-Automated-Testing-ei61i4)
