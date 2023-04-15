@@ -14,5 +14,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://anchor.fm/s/31505420/podcast/rss
+          feed-url: https://feeds.buzzsprout.com/793019.rss
           readme-section: devtalks
