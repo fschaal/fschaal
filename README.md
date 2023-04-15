@@ -5,11 +5,11 @@
 
 ### Dev Talks Podcast
 <!--START_SECTION:devtalks-->
-- [14: Aan de slag met IOT](https://podcasters.spotify.com/pod/show/dev-talks/episodes/14-Aan-de-slag-met-IOT-ei61ij)
-- [13: Automated Testing](https://podcasters.spotify.com/pod/show/dev-talks/episodes/13-Automated-Testing-ei61i4)
-- [12: The future of cloud development](https://podcasters.spotify.com/pod/show/dev-talks/episodes/12-The-future-of-cloud-development-ei61ic)
-- [11: Microsoft Build 2020 Recap](https://podcasters.spotify.com/pod/show/dev-talks/episodes/11-Microsoft-Build-2020-Recap-ei61i5)
-- [10: Data &amp; Analytics](https://podcasters.spotify.com/pod/show/dev-talks/episodes/10-Data--Analytics-ei61ig)
+* [14: Aan de slag met IOT](https:&#x2F;&#x2F;podcasters.spotify.com&#x2F;pod&#x2F;show&#x2F;dev-talks&#x2F;episodes&#x2F;14-Aan-de-slag-met-IOT-ei61ij)
+* [13: Automated Testing](https:&#x2F;&#x2F;podcasters.spotify.com&#x2F;pod&#x2F;show&#x2F;dev-talks&#x2F;episodes&#x2F;13-Automated-Testing-ei61i4)
+* [12: The future of cloud development](https:&#x2F;&#x2F;podcasters.spotify.com&#x2F;pod&#x2F;show&#x2F;dev-talks&#x2F;episodes&#x2F;12-The-future-of-cloud-development-ei61ic)
+* [11: Microsoft Build 2020 Recap](https:&#x2F;&#x2F;podcasters.spotify.com&#x2F;pod&#x2F;show&#x2F;dev-talks&#x2F;episodes&#x2F;11-Microsoft-Build-2020-Recap-ei61i5)
+* [10: Data &amp; Analytics](https:&#x2F;&#x2F;podcasters.spotify.com&#x2F;pod&#x2F;show&#x2F;dev-talks&#x2F;episodes&#x2F;10-Data--Analytics-ei61ig)
 <!--END_SECTION:devtalks-->
 
 ### Connect with me:
