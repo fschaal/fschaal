@@ -5,11 +5,11 @@
 
 ### Dev Talks Podcast
 <!--START_SECTION:devtalks-->
+* [47. Office 365 &amp; Security]()
 * [46. De .NET &amp; Data highlights van Microsoft Build]()
 * [45. Dennis van der Stelt werkt aan NServicebus]()
 * [44. Dit komt er aan voor Blazor &amp; Fluent UI]()
 * [43. Zo maak je een Pluralsight cursus met Barry Luijbregts]()
-* [42. Deze dev highlights nemen we mee naar 2023]()
 <!--END_SECTION:devtalks-->
 
 ### Connect with me:
