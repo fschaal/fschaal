@@ -5,11 +5,11 @@
 
 ### Dev Talks Podcast
 <!--START_SECTION:devtalks-->
+* [49. Generative AI met Robin Smits]()
 * [48. Hoe werkt het laadpalen netwerk?]()
 * [47. Office 365 &amp; Security]()
 * [46. De .NET &amp; Data highlights van Microsoft Build]()
 * [45. Dennis van der Stelt werkt aan NServicebus]()
-* [44. Dit komt er aan voor Blazor &amp; Fluent UI]()
 <!--END_SECTION:devtalks-->
 
 ### Connect with me:
