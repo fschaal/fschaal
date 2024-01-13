@@ -5,11 +5,11 @@
 
 ### Dev Talks Podcast
 <!--START_SECTION:devtalks-->
+* [52. Sebass van Github deelt de nieuwste features]()
 * [51. Vision Intelligence met Kees Schollaart]()
 * [50. Breus en Casper van Adyen op bezoek]()
 * [49. Generative AI met Robin Smits]()
 * [48. Hoe werkt het laadpalen netwerk?]()
-* [47. Office 365 &amp; Security]()
 <!--END_SECTION:devtalks-->
 
 ### Connect with me:
