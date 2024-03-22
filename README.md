@@ -5,11 +5,11 @@
 
 ### Dev Talks Podcast
 <!--START_SECTION:devtalks-->
+* [54. Generative AI bij de NS]()
 * [53. Florian neemt afscheid]()
 * [52. Sebass van GitHub deelt de nieuwste features]()
 * [51. Vision Intelligence met Kees Schollaart]()
 * [50. Breus en Casper van Adyen op bezoek]()
-* [49. Generative AI met Robin Smits]()
 <!--END_SECTION:devtalks-->
 
 ### Connect with me:
