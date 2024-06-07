@@ -1,7 +1,7 @@
 ### Hi there, I'm Florian 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/fschaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffschaal&screen_name=fschaal)
 
-## I'm a .NET developer working on the future of ev-charging. My main focus currently on .NET in combination with the Azure Cloud!
+## I'm a Fullstack developer working on the future of ev-charging. My main focus currently on .NET in combination with the Azure Cloud!
 
 ### Connect with me:
 
