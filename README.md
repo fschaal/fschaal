@@ -20,7 +20,7 @@ These days I’m mostly in **.NET** and **Azure**, building reliable backend sys
 
 ## What I do
 
-- Building backend services for smart charging and payments
+- Building backend services for EV charging and payments
 - Shipping cloud-native workloads on Azure (Functions, containers, queues, observability)
 - Writing tooling that makes dev workflows smoother (especially around Neovim)
 
