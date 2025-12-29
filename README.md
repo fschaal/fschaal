@@ -1,31 +1,56 @@
-### Hi there, I'm Florian 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/fschaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffschaal&screen_name=fschaal)
+### Hi, I’m Florian 👋
 
-## I'm a Fullstack developer working on the future of ev-charging. My main focus currently on .NET in combination with the Azure Cloud!
+I’m a full-stack developer working on the future of EV charging.  
+These days I’m mostly in **.NET** and **Azure**, building reliable backend systems and developer tooling.
 
-### Connect with me:
+<p>
+  <a href="https://www.florianschaal.com/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-florianschaal.com-111?style=for-the-badge">
+  </a>
+  <a href="https://twitter.com/fschaal">
+    <img alt="X" src="https://img.shields.io/badge/X-@fschaal-111?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/fschaal/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Florian%20Schaal-111?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/fschaal/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@fschaal-111?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/fschaal
-[instagram]: https://instagram.com/keekje
-[linkedin]: https://linkedin.com/in/florian-schaal
+## What I do
 
-<br />
-<br />
-<details>
-  <summary>:zap: Most used languages</summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fschaal&hide=css,html)](https://github.com/fschaal/github-readme-stats)
+- Building backend services for smart charging and payments
+- Shipping cloud-native workloads on Azure (Functions, containers, queues, observability)
+- Writing tooling that makes dev workflows smoother (especially around Neovim)
 
-</details>
+---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fschaal&&count_private=true&theme=cobalt)](https://github.com/fschaal/github-readme-stats)
-  
-</details>
+## Tech I reach for a lot
 
+**Backend:** C#, .NET, Azure Functions, distributed messaging  
+**Cloud:** Azure (App Insights, Key Vault, CI/CD, containers)  
+**Data:** SQL + “whatever fits” (I care more about correctness than fashion)  
+**Editor:** Neovim (yes, really)
+
+---
+
+## Open source
+
+- **azfunc.nvim** — debug Azure Functions in Neovim with DAP integration  
+  (If you’re using .NET isolated Functions and you’re tired of clunky debugging setups, this is for you.)
+
+- **zmk-config** — my keyboard config / experiments
+
+---
+
+## Fun facts (the non-cringe version)
+
+- I like building things that are boring in production (reliable, observable, predictable).
+- I’m into keyboards and the “make my editor do more” rabbit hole.
+
+---
+
+If you want to chat about EV charging, .NET, Azure, or Neovim: say hi on LinkedIn.
