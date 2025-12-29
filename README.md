@@ -10,11 +10,11 @@ These days I’m mostly in **.NET** and **Azure**, building reliable backend sys
   <a href="https://twitter.com/fschaal">
     <img alt="X" src="https://img.shields.io/badge/X-@fschaal-111?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/fschaal/">
+  <a href="https://www.linkedin.com/in/florian-schaal/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Florian%20Schaal-111?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/fschaal/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@fschaal-111?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/keekje/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@keekje-111?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
