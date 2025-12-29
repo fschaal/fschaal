@@ -33,10 +33,10 @@ These days I’m mostly in **.NET** and **Azure**, building reliable backend sys
 
 ## Open source
 
-- **azfunc.nvim** — debug Azure Functions in Neovim with DAP integration  
+- [**azfunc.nvim**](https://github.com/fschaal/azfunc.nvim) — debug Azure Functions in Neovim with DAP integration  
   (If you’re using .NET isolated Functions and you’re tired of clunky debugging setups, this is for you.)
 
-- **zmk-config** — my keyboard config / experiments
+- [**zmk-config**](https://github.com/fschaal/zmk-config) — my keyboard config / experiments
 
 ## Fun facts (the non-cringe version)
 
@@ -45,4 +45,4 @@ These days I’m mostly in **.NET** and **Azure**, building reliable backend sys
 
 ---
 
-If you want to chat about EV charging, .NET, Azure, or Neovim: say hi on LinkedIn.
+If you want to chat about EV charging, .NET, Azure, or Neovim: say hi on [LinkedIn](https://www.linkedin.com/in/florian-schaal/).
