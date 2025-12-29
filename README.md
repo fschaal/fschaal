@@ -18,15 +18,11 @@ These days I’m mostly in **.NET** and **Azure**, building reliable backend sys
   </a>
 </p>
 
----
-
 ## What I do
 
 - Building backend services for smart charging and payments
 - Shipping cloud-native workloads on Azure (Functions, containers, queues, observability)
 - Writing tooling that makes dev workflows smoother (especially around Neovim)
-
----
 
 ## Tech I reach for a lot
 
@@ -35,16 +31,12 @@ These days I’m mostly in **.NET** and **Azure**, building reliable backend sys
 **Data:** SQL + “whatever fits” (I care more about correctness than fashion)  
 **Editor:** Neovim (yes, really)
 
----
-
 ## Open source
 
 - **azfunc.nvim** — debug Azure Functions in Neovim with DAP integration  
   (If you’re using .NET isolated Functions and you’re tired of clunky debugging setups, this is for you.)
 
 - **zmk-config** — my keyboard config / experiments
-
----
 
 ## Fun facts (the non-cringe version)
 
